@@ -1,0 +1,5 @@
+{
+    "ConnectionStrings": {
+        "ConvergedConnectionString": "server=(localdb)\\ProjectsV13;Database=ConvergedConnectorDB; Integrated Security=true;MultipleActiveResultSets=true"
+    }
+}
